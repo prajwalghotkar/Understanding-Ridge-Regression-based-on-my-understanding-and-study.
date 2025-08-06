@@ -26,7 +26,7 @@ Penalty=λ∑β𝑗2 So, the bigger a coefficient is, the more it gets penalized
 ---
 ##### 5) Why It’s Called "Ridge"? 
 This is where things get visually intuitive.
-![WhatsApp Image 2025-08-06 at 21 06 37_93cb4f75](https://github.com/user-attachments/assets/0e9c2b10-95a3-4c7f-965d-4e5061958a5b)
 - In the image below (which I drew to understand the geometry of Ridge Regression), the elliptical contours represent the OLS loss function. The circle around the origin is the constraint region defined by Ridge (i.e., the region where the sum of squared coefficients is limited).
+![WhatsApp Image 2025-08-06 at 21 06 37_93cb4f75](https://github.com/user-attachments/assets/0e9c2b10-95a3-4c7f-965d-4e5061958a5b)
 - Where the smallest loss contour just touches the constraint circle, that’s where Ridge gives us the best estimate. This edge — or "ridge" — created by the constraint is how the algorithm gets its name.
 
