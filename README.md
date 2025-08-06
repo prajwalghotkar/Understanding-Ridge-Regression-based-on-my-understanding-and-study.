@@ -4,4 +4,6 @@
 ---
 ##### 1) How the Coefficients Get Affected?
 - In Ridge Regression, we introduce a penalty on the size of the coefficients, which forces them to shrink. Unlike Lasso, Ridge doesn’t reduce them to exact zero, but significantly reduces their magnitude. This shrinkage leads to more stable and generalizable models, especially in cases where the features are highly correlated or noisy.
-![WhatsApp Image 2025-08-06 at 19 50 06_808ac199](https://github.com/user-attachments/assets/24e1d8d8-e1df-498b-840f-863809e79cb1)
+
+![prajwal_data](https://github.com/user-attachments/assets/ce16b4c7-5526-4fbf-9cb6-6ec1bd39b9ba)
+
